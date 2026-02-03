@@ -1,0 +1,55 @@
+10:45:32.764 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+10:45:33.580 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+10:45:33.585 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+10:45:35.134 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+10:45:36.302 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+10:45:42.498 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+21:46:54.312 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+21:46:54.617 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+21:46:56.330 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+21:46:56.334 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+21:46:59.569 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+21:46:59.666 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+21:47:04.963 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+21:14:37.455 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+21:14:37.834 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+21:14:38.657 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+21:14:38.699 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+21:14:43.217 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+21:14:43.451 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+21:14:49.137 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+21:17:29.925 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+21:17:30.279 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+21:17:31.909 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+21:17:31.941 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+21:17:36.279 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+21:17:36.575 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+21:17:46.271 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+18:29:34.979 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+18:29:36.275 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+18:29:39.470 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+18:29:39.566 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+18:29:49.980 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+18:29:50.272 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+18:29:57.043 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+19:29:04.041 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+19:29:04.847 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+19:29:06.452 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+19:29:06.462 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+19:29:07.468 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+19:29:09.703 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+19:29:25.657 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+21:19:32.724 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+21:19:33.217 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+21:19:34.751 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+21:19:34.756 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+21:19:46.157 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+21:19:46.216 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+21:19:50.445 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+21:24:23.829 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+21:24:24.058 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+21:24:25.165 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+21:24:25.169 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+21:24:27.424 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+21:24:27.477 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+21:24:47.010 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****

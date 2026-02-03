@@ -1,0 +1,7 @@
+11:14:36.655 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+11:14:36.871 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+11:14:37.595 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+11:14:37.596 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+11:14:51.484 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+11:14:51.550 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+11:14:55.033 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****

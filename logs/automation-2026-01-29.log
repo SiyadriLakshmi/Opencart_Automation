@@ -1,0 +1,49 @@
+20:18:26.332 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:18:26.416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:18:26.416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:18:26.416 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:18:26.456 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:18:26.484 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:18:26.484 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:18:26.522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:18:26.531 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:18:26.539 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:18:26.650 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:18:26.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:18:26.654 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:18:26.960 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:18:49.270 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:18:49.380 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:19:10.620 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:19:10.712 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:19:31.860 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:19:31.875 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:19:35.342 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:19:35.350 [main] INFO  testCases.TC03_LoginDataprovidertest - ****Login test Start...****
+20:21:12.680 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+20:21:12.919 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+20:21:13.789 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+20:21:13.798 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+20:21:16.088 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+20:21:16.268 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+20:27:26.437 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+20:27:26.768 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+20:27:28.584 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+20:27:28.589 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+20:27:31.772 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+20:27:31.889 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+20:51:21.393 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+20:51:21.581 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+20:51:22.231 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+20:51:22.236 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+20:51:24.635 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+20:51:24.689 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+20:51:28.062 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+20:56:59.307 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
+20:56:59.571 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
+20:57:00.628 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
+20:57:00.633 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
+20:57:01.661 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
+20:57:03.055 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
+20:57:07.588 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+21:07:40.227 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
