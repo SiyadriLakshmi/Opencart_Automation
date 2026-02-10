@@ -1,7 +1,28 @@
-11:14:36.655 [main] INFO  testCases.TC01_Registrationtest - **** Starting TC01_Registrationtest ****
-11:14:36.871 [main] INFO  testCases.TC01_Registrationtest - clicked on account link
-11:14:37.595 [main] INFO  testCases.TC01_Registrationtest - clicked on Registeration link
-11:14:37.596 [main] INFO  testCases.TC01_Registrationtest - providing user detals..
-11:14:51.484 [main] INFO  testCases.TC01_Registrationtest - Validationg expected essage ..
-11:14:51.550 [main] INFO  testCases.TC01_Registrationtest - **** Finished TC01_Registrationtest ****
-11:14:55.033 [main] INFO  testCases.TC02_Logintest - ****Login test Start...****
+20:36:28.419 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:36:31.456 [main] ERROR testCases.TC08_UpdateProductQuantityTest - Test Failed: empty String
+20:41:26.480 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:41:30.908 [main] ERROR testCases.TC08_UpdateProductQuantityTest - Test Failed: empty String
+20:45:53.711 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:45:57.477 [main] ERROR testCases.TC08_UpdateProductQuantityTest - Test Failed: empty String
+20:51:29.898 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:51:33.459 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Captured Data - Quantity: , Price: $122.00, Total: $244.00
+20:51:33.459 [main] ERROR testCases.TC08_UpdateProductQuantityTest - Test Failed: empty String
+20:53:24.846 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:53:26.883 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Captured Data - Quantity: 2, Price: $122.00, Total: $244.00
+21:20:25.569 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC08_UpdateProductQuantityTest *****
+21:20:25.598 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Searching for product: mac
+21:20:26.221 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Clicking on product from search page
+21:20:27.016 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Setting quantity to '2' and adding to cart
+21:20:27.261 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Navigating to Shopping Cart page
+21:20:27.707 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Waiting for cart elements to be visible...
+21:20:27.872 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Captured UI Data -> Qty: [2], Unit Price: [$122.00], Total Price: [$244.00]
+21:20:27.872 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Normalizing and parsing numeric values...
+21:20:27.872 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Calculation: 122.0 * 2.0 = Expected Total: 244.0
+21:20:27.872 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Actual Total from UI: 244.0
+21:20:27.872 [main] INFO  testCases.TC08_UpdateProductQuantityTest - Validating Total Price matches Unit Price * Quantity...
+21:20:27.882 [main] INFO  testCases.TC08_UpdateProductQuantityTest - TC08_UpdateProductQuantityTest Passed Successfully
+21:20:27.882 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Finished TC08_UpdateProductQuantityTest *****
+21:33:49.328 [main] INFO  testCases.TC09_RemoveProductFromCartTest - Searching for product: mac
+21:33:50.113 [main] INFO  testCases.TC09_RemoveProductFromCartTest - Clicking on product from search page
+21:33:51.034 [main] INFO  testCases.TC09_RemoveProductFromCartTest - Setting quantity to '2' and adding to cart
+21:33:51.294 [main] INFO  testCases.TC09_RemoveProductFromCartTest - Navigating to Shopping Cart page

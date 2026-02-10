@@ -15,12 +15,15 @@
 </listeners>
   
   <test thread-count="5" name="Test">
-  <parameter name="os" value="linux"/>
+  <parameter name="os" value="window"/>
   <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC01_Registrationtest"/>
-       <class name="testCases.TC02_Logintest"/>
-       <!--  <class name="testCases.TC03_LoginDataprovidertest"/>-->
+          <class name="testCases.TC07_ViewCartDetailsTest"/>
+        <!--  <class name="testCases.TC05_SearchpageDataproviderTest"/>
+       <class name="testCases.TC04_AddToCartTest"/>
+       <class name="testCases.TC01_Registrationtest"/>
+        <class name="testCases.TC02_Logintest"/>
+         <class name="testCases.TC03_LoginDataprovidertest"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

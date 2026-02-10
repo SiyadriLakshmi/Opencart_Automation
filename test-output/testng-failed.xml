@@ -8,20 +8,13 @@
     <parameter name="os" value="linux"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC01_Registrationtest">
+      <class name="testCases.TC08_UpdateProductQuantityTest">
         <methods>
           <include name="setup"/>
-          <include name="teardown"/>
-          <include name="Registration_Account_test"/>
-        </methods>
-      </class> <!-- testCases.TC01_Registrationtest -->
-      <class name="testCases.TC02_Logintest">
-        <methods>
-          <include name="setup"/>
-          <include name="Login"/>
+          <include name="updateproductquatity"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- testCases.TC02_Logintest -->
+      </class> <!-- testCases.TC08_UpdateProductQuantityTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

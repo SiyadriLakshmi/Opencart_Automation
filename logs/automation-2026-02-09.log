@@ -1,0 +1,46 @@
+16:46:17.048 [main] INFO  testCases.TC07_ViewCartDetailsTest - Setting quantity to 2 and adding to cart
+16:46:17.354 [main] INFO  testCases.TC07_ViewCartDetailsTest - Navigating to Shopping Cart
+16:46:18.112 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Product Name from Cart: 
+16:46:18.117 [main] INFO  testCases.TC07_ViewCartDetailsTest - Normalized Product Name: 
+16:46:18.144 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Price Text from Cart: 
+16:46:18.144 [main] ERROR testCases.TC07_ViewCartDetailsTest - Test Failed due to exception: empty String
+16:55:11.447 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Starting TC07_ViewCartDetailsTest *****
+16:55:13.671 [main] INFO  testCases.TC07_ViewCartDetailsTest - Expected Product Name: iMac
+16:55:14.509 [main] INFO  testCases.TC07_ViewCartDetailsTest - Waiting for product name to be visible in cart...
+16:55:14.625 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Product Name from Cart: [iMac]
+16:55:14.625 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Price Text from Cart: [Unit Price]
+16:55:14.631 [main] ERROR testCases.TC07_ViewCartDetailsTest - Test Failed: empty String
+16:57:15.021 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Starting TC07_ViewCartDetailsTest *****
+16:57:16.115 [main] INFO  testCases.TC07_ViewCartDetailsTest - Expected Product Name: iMac
+16:57:16.940 [main] INFO  testCases.TC07_ViewCartDetailsTest - Waiting for product name to be visible in cart...
+16:57:17.066 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Product Name from Cart: [iMac]
+16:57:17.066 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Price Text from Cart: [$122.00]
+16:57:17.071 [main] INFO  testCases.TC07_ViewCartDetailsTest - Cleaned Name: iMac | Parsed Price: 122.0
+16:57:17.074 [main] INFO  testCases.TC07_ViewCartDetailsTest - TC07_ViewCartDetailsTest Passed
+16:57:17.074 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Finished TC07_ViewCartDetailsTest *****
+17:10:37.036 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Starting TC07_ViewCartDetailsTest *****
+17:10:38.421 [main] INFO  testCases.TC07_ViewCartDetailsTest - Expected Product Name: iMac
+17:10:39.196 [main] INFO  testCases.TC07_ViewCartDetailsTest - Waiting for product name to be visible in cart...
+17:10:39.323 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Product Name from Cart: [iMac]
+17:10:39.323 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Price Text from Cart: [$122.00]
+17:10:39.327 [main] INFO  testCases.TC07_ViewCartDetailsTest - Cleaned Name: iMac | Parsed Price: 122.0
+17:10:39.327 [main] INFO  testCases.TC07_ViewCartDetailsTest - TC07_ViewCartDetailsTest Passed
+17:10:39.327 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Finished TC07_ViewCartDetailsTest *****
+20:30:27.315 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:30:32.001 [main] INFO  testCases.TC07_ViewCartDetailsTest - Expected Product Name: iMac
+20:30:32.994 [main] INFO  testCases.TC07_ViewCartDetailsTest - Waiting for product name to be visible in cart...
+20:30:33.109 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Product Name from Cart: [iMac]
+20:30:33.110 [main] INFO  testCases.TC07_ViewCartDetailsTest - Raw Price Text from Cart: [$122.00]
+20:30:33.111 [main] INFO  testCases.TC07_ViewCartDetailsTest - Cleaned Name: iMac | Parsed Price: 122.0
+20:30:33.112 [main] INFO  testCases.TC07_ViewCartDetailsTest - TC07_ViewCartDetailsTest Passed
+20:30:33.112 [main] INFO  testCases.TC07_ViewCartDetailsTest - ***** Finished TC07_ViewCartDetailsTest *****
+20:32:15.304 [main] INFO  testCases.TC08_UpdateProductQuantityTest - ***** Starting TC07_ViewCartDetailsTest *****
+20:32:27.159 [main] ERROR testCases.TC08_UpdateProductQuantityTest - Test Failed: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='content']//form//table/tbody/tr/td[4]//div[@class='input-group btn-block']/input"}
+  (Session info: chrome=144.0.7559.133)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.17.0', revision: 'e52b1be057*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5a1cc3417a493bf5282b79e41dbfa868, findElement {using=xpath, value=//div[@id='content']//form//table/tbody/tr/td[4]//div[@class='input-group btn-block']/input}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 144.0.7559.133, chrome: {chromedriverVersion: 144.0.7559.133 (7da823b1d59..., userDataDir: C:\Users\laksh\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56089}, goog:processID: 16544, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56089/devtoo..., se:cdpVersion: 144.0.7559.133, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5a1cc3417a493bf5282b79e41dbfa868
