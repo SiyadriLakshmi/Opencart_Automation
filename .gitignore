@@ -1,0 +1,8 @@
+# Stage the new .gitignore file
+git add .gitignore
+
+# Commit the change
+git commit -m "docs: add gitignore to prevent tracking of build artifacts"
+
+# Push the rules to GitHub
+git push origin master
